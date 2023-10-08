@@ -22,6 +22,6 @@ Investopedia
 $ python3 -m venv venv
 
 # install requirements
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 
 ```
